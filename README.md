@@ -1,18 +1,8 @@
----
-puppeteer:
-    format: "A4"
-    scale: 0.75
-    margin:
-        top: 1cm
-        right: 1cm
-        bottom: 1cm
-        left: 1cm
----
-
 # KNN-Digital-Recognition
 
 Author: HuRuilizhen
-Repository: [github.com/HuRuilizhen/knn-digital-recognition](https://github.com/HuRuilizhen/knn-digital-recognition)
+
+Repository: [HuRuilizhen/CSC3001-Project](https://github.com/HuRuilizhen/CSC3001-Project)
 
 ---  
   
